@@ -1,0 +1,25 @@
+Functions:
+//Inputting data
+Editing data
+Bulk moves
+Searching for open positions
+//Calculating amount of water needed
+//Updating watered plants
+//Listing types of plants in order and number of them
+
+Requirements:
+//Object-oriented design (//classes, //objects, //inheritance, //polymorphism)
+//Data structures (//arrays, //ArrayList, etc.)
+//Algorithms (//searching, //sorting, etc.)
+
+Classes:
+Main
+School (all the walls, big methods run from here)
+Plant (type, state)
+Wall (2d array of plants)
+//Subclass type of wall? just to get the inheritence & polymorphism points
+
+//Database of plant types, amount of water needed per watering, days to go without watering
+//Method to tell which plants need to be watered soon
+
+//Formatted plant lists availible in alphabetical order
